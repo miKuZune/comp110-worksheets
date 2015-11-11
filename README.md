@@ -1,13 +1,26 @@
-# comp110-worksheets
-A template for the COMP110 worksheets and the weekly reflective reports.
+# Weekly Reflective Reports
+This repository provides a template for submitting the COMP110 Worksheets as formative works-in-progress. Further to this, the README.md file is used to provide a week-by-week account of the learning experience. In particular, highlighting challenges and triumpths that will be useful for the forthcoming COMP120 Reflective Report.
+
+##Week 1
+Content here
 
 ##Week 2
 Content here
 
-gjhgjhfyj
+##Week 3
+Content here
 
-vifviu
+##Week 4
+Content here
 
-bla
+##Week 5
+Content here
 
-etc.
+##Week 6
+Content here
+
+##Week R
+Content here
+
+##Week 7
+Content here
