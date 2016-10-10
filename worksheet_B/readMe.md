@@ -1,4 +1,4 @@
-```
+
 START
 password = GENERATE(Four letter word)      //Creates a four letter word.
 attempts = 4 i = 4while(i>0)                             //Creates a while loop for each guess the user has.
@@ -21,4 +21,3 @@ End while
 
 END
 ![This is a flow chart](Fallout4%20Terminal%20hacking%20flowchart.png)
-```
