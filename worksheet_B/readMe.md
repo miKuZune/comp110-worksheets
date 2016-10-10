@@ -19,5 +19,6 @@ else  i = i - 1                       //Decreases i whic
 End while
 
 
-END ![This is a flow chart](Fallout4%20Terminal%20hacking%20flowchart.png)
+END
+![This is a flow chart](Fallout4%20Terminal%20hacking%20flowchart.png)
 ```
