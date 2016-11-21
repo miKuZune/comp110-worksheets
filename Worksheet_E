@@ -1,0 +1,35 @@
+A) s0 = 2 
+s1 = 2 
+s2 = 0 
+s3 = s0 
+while s3 != 0: 
+    s2 = s2 + s1 
+    s3 = s3 - 1 
+print (s2) 
+ 
+B) The value of s2 is equal to the value of s2 + the value of s1 for s0 amount of times. Example: 1st run:  
+S2 = 0 +2, s3 = 2-1.  2nd run: s2 = 2 +2, s3 = 1-1. End result: s2 = 4  
+ 
+C) 
+s0 = 10 
+s1 = 1 
+while s0 != 0: 
+    s2 = 0 
+    s3 = s0 
+    while s3 != 0: 
+        s2 = s2 + s1 
+        s3 = s3 - 1 
+    s1 = s2 
+    s0 = s0 - 1 
+print (s2) 
+ 
+ 
+D) S2 is set to the value of s2 + s1 for s0 amount of times. S1 then changes to s2 and the process is repeated for s0 amount of times.  
+ 
+E) $R0 = 10 
+$R1 = 1 
+ 
+ 
+inner: mult $R1, $R0 
+mflo $R1 
+addi $R0, $R0, -1 
